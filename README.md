@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a frontend senior software engineering manager 
+I am the product manager for the PatternFly design system
 - 🔭 Working on multiple frontend projects using PatternFly and React
 - 🌱 Learning OpenShift and partner enablement for Open Hybrid Cloud
 <br>
